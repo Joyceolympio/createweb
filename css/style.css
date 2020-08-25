@@ -3747,3 +3747,15 @@ section.containercontainer-portfolio > img{
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+@media screen and (max-width: 768px){
+    .footer-menu{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .features .feature-info{
+        text-align: center;
+    }
+}
